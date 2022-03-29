@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oli Deane"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,4 +24,4 @@ The paper concludes with suggestions for how future work can act upon these insi
 
 
 Example: System Architecture
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/RFT_ME.png)

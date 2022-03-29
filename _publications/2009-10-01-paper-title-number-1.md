@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Deep SAGA:  a Deep-learning-based System for Automatic Gaze Annotation from Eye-tracking Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper present a novel system for automatic annotation of gaze tracking data using Mask R-CNN.'
+date: 2022-10-05
+venue: 'Behavior Research Methods'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Deane, O., Toth, E., Yeo, S. (2022). Deep SAGA:  a Deep-learning-based System for Automatic Gaze Annotation from Eye-tracking Data. <i>Behavior Research Methods</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents a novel system for automatic annotation of gaze tracking data using Mask R-CNN.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Deane, O., Toth, E., Yeo, S. (2022). Deep SAGA:  a Deep-learning-based System for Automatic Gaze Annotation from Eye-tracking Data. <i>Behavior Research Methods</i>. 1(1).

@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Bristol, Department of Computer Science"
+date: 2021-11-11
+location: "Bristol, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This unit provides an introduction to the field of artificial intelligence (AI) from the perspective of logic programming. The first half covers the basic principles of knowledge representation and automated inference with the Prolog programming language. The second half covers more advanced methods in natural language processing and machine learning which exploit the representation and reasoning power of Prolog. I am a teaching assistant on this course.  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
