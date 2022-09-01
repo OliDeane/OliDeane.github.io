@@ -19,7 +19,7 @@ The emerging field of explanation-driven Interactive Machine Learning (XIML) int
 Recent work has made significant progress towards facilitating effective user feedback using propositional symbolic machine learning methods, and such methods have also been successfully integrated with neural processing modules in several vision-based tasks [1,2,3]. However, existing approaches lack expressivity and suffer from common challenges including concept drift and vulnerability to confounding factors in training data. The current project explores how such limitations can be addressed by integrating methodologies from the field of Inductive Logic Programming (ILP) which has long explored the use of symbolic logic to facilitate user interaction [4,5]. We demonstrate the efficacy of this interdisciplinary methodology by implementing interactive ILP systems on existing XIML task domains. We present the comparative advantages of the ILP approach and introduce future avenues of research that will further align ILP and XIML research. 
 
 Example: Interactive workflow for XIML and ILP system. Image taken from [5].
-![Editing a markdown file for a talk](/images/schmid.png)
+![Editing a markdown file for a talk](/images/architecture_ILP_HANS.png)
 
 Notable References
 ======
