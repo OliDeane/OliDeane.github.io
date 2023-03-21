@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Artificial Intelligence"
+title: "Artificial Intelligence"
 collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
