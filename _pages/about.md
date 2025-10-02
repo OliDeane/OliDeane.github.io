@@ -8,29 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Having graduated from the University of York with a BSc in Psychology, I went on to obtain an MSc in Computational Neuroscience and Cognitive Robotics from the University of Birmingham. At BSc level, my dissertation focused on memory consolidation, while my MSc research aimed to automate the annotation of eye tracking data with computer vision architectures such as Mask R-CNN.  
+I am a doctoral researcher with a PhD in Artificial Intelligence (pending final corrections). My research brought together expertise in Explainable AI, Reinforcement Learning, and User Interface design to develop SYMPLEX (Symbolically-constrained Policy Learning through Exploration and Expert Interaction) - a novel system that enables reinforcement learning agents to learn and operate under explicit logical constraints. This work has formed the basis of several publications in leading AI conferences and journals.
 
-As a PhD student at the University of Bristol, my current research explores interactive symbolic machine learning methodologies that facilitate human feedback to AI models. For further details, check out my thesis summary below and feel free to head over to [my Github page](https://github.com/staeiou/staeiou.github.io) for more information on my past research and ongoing projects.
+Beyond my PhD, I have undertaken research placements at IBM, where I contributed to the design of user-centred interactive machine learning interfaces, and at the Alan Turing Institute, where I collaborated with the Ministry of Justice to develop an information retrieval system that empowers victims to better understand their rights under relevant legislation.
 
 Research Project Summary
 ======
-The emerging field of explanation-driven Interactive Machine Learning (XIML) intends to advance human-AI interaction beyond active learning methodologies with systems that permit richer user feedback than static ground truth labels. XIML pairs queries with explanations of the model's underlying reasoning which the user can adjust to guide model learning and improve out-of-distribution robustness. 
+My thesis presented a neurosymbolic framework called Symplex (Symbolically-constrained Policy Learning from Exploration/Examples) which combines policy optimisation with example-based user interaction designed to elucidate additional preferences that end users find easier to illustrate than directly formalise. To achieve this, Symplex interleaves a symbolic system based on interactive Inductive Logic Programming (ILP) which learns user preferences as first-order logic constraints derived from example demonstrations, with a neural system based on Deep Q learning (DQL) that learns near-optimal policies subject to those constraints. The core contribution of Symplex lies in its ability to satisfy three key properties: 
 
-Recent work has made significant progress towards facilitating effective user feedback using propositional symbolic machine learning methods, and such methods have also been successfully integrated with neural processing modules in several vision-based tasks [1,2,3]. However, existing approaches lack expressivity and suffer from common challenges including concept drift and vulnerability to confounding factors in training data. The current project explores how such limitations can be addressed by integrating methodologies from the field of Inductive Logic Programming (ILP) which has long explored the use of symbolic logic to facilitate user interaction [4,5]. We demonstrate the efficacy of this interdisciplinary methodology by implementing interactive ILP systems on existing XIML task domains. We present the comparative advantages of the ILP approach and introduce future avenues of research that will further align ILP and XIML research. 
+* learned constraints take the form of first-order symbolic clauses making them inherently human-interpretable and generalisable across different environment configurations;
+* users are only required to provide examples of desirable behaviour, rather than formal specifications, and can harness interactive feedback mechanisms to refine constraints, resolve conflicts and provide counter-examples;
+* constraints are encoded as low-level state-action penalties in the DQL reward function so can be overridden to account for newly-provided user demonstrations;
 
-Example: Interactive workflow for XIML and ILP system. Image taken from [5].
-![Editing a markdown file for a talk](/images/architecture_ILP_HANS.png)
+Ultimately, this work reinforces the value of combining autonomous learning with both interpretable symbolic machine learning, and knowledge-driven user interaction, in order to support trustworthy, user-aligned agentic systems.
 
-Notable References
-======
-1) Elizabeth M Daly, Massimiliano Mattetti, Öznur Alkan, and Rahul Nair. User driven model adjustment via boolean rule explanations. arXiv preprint arXiv:2203.15071, 2022.
+![Editing a markdown file for a talk](/images/SymplexOverview.png)
+The above image demonstrates how the SYMPLEX system interleaves exploration-based learning with symbolic machine learning to elucidate a set of explicit constraints under which a Reinforcement Learning agent must operate.
 
-2) Öznur Alkan, Dennis Wei, Massimiliano Matteti, Rahul Nair, Elizabeth M Daly, and Diptikalyan Saha. Frote: Feedback rule-driven oversampling for editing models. arXiv preprint arXiv:2201.01070, 2022.
-
-3) Stefano Teso and Kristian Kersting. Explanatory interactive machine learning. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pages 239–245, 2019. 
-
-4) Oliver Ray and Steve Moyle. Towards expert-guided elucidation of cyber attacks through interactive inductive logic programming. In 2021 13th International Conference on Knowledge and Systems Engineering (KSE), pages 1–7. IEEE, 2021.  
-
-5) Schmid, U., & Finzel, B. (2020). Mutual explanations for cooperative decision making in medicine. KI-Künstliche Intelligenz, 34(2), 227-233.
 
 
