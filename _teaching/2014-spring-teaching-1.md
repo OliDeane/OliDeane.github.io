@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Introduction to Machine Learning"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
