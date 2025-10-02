@@ -12,7 +12,7 @@ I am a doctoral researcher with a PhD in Artificial Intelligence (pending final 
 
 Beyond my PhD, I have undertaken research placements at IBM, where I contributed to the design of user-centred interactive machine learning interfaces, and at the Alan Turing Institute, where I collaborated with the Ministry of Justice to develop an information retrieval system that empowers victims to better understand their rights under relevant legislation.
 
-Research Project Summary
+PhD Thesis Summary
 ======
 My thesis presented a neurosymbolic framework called Symplex (Symbolically-constrained Policy Learning from Exploration/Examples) which combines policy optimisation with example-based user interaction designed to elucidate additional preferences that end users find easier to illustrate than directly formalise. To achieve this, Symplex interleaves a symbolic system based on interactive Inductive Logic Programming (ILP) which learns user preferences as first-order logic constraints derived from example demonstrations, with a neural system based on Deep Q learning (DQL) that learns near-optimal policies subject to those constraints. The core contribution of Symplex lies in its ability to satisfy three key properties: 
 

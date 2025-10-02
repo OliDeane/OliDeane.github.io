@@ -2,7 +2,7 @@
 title: "Deep SAGA:  a Deep-learning-based System for Automatic Gaze Annotation from Eye-tracking Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper present a novel system for automatic annotation of gaze tracking data using Mask R-CNN.'
+excerpt: 'This paper presents a novel system for automatic annotation of gaze tracking data using Mask R-CNN.'
 date: 2022-10-05
 venue: 'Behavior Research Methods'
 paperurl: 'https://link.springer.com/article/10.3758/s13428-022-01833-4'

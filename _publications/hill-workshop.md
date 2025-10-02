@@ -2,7 +2,7 @@
 title: "End-user-centered Interactive Explanatory Relational Learning with Inductive Logic Programming"
 collection: publications
 permalink: /publication/hill-workshop
-excerpt: 'This paper present a novel system for automatic annotation of gaze tracking data using Mask R-CNN.'
+excerpt: 'This paper explores how logic-based Human-in-the-loop Learning (HILL) systems can help users more effectively deal with confounding factors in relational data.'
 date: 2022-10-05
 venue: 'NeurIPS 2022: Workshop on Human in the Loop Learning'
 paperurl: ''
